@@ -14,5 +14,8 @@ func _process(delta: float) -> void:
 
 func _on_body_entered(body: Node2D) -> void:
 	animation_player.play("coins_free")
-	#queue_free()
+	#queue_free() 会更好 给
+	
+	
+	
 	pass # Replace with function body.
