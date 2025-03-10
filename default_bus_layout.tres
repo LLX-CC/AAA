@@ -1,0 +1,10 @@
+[gd_resource type="AudioBusLayout" format=3 uid="uid://deh384jys00os"]
+
+[resource]
+bus/0/volume_db = 3.64024
+bus/1/name = &"fix"
+bus/1/solo = false
+bus/1/mute = false
+bus/1/bypass_fx = false
+bus/1/volume_db = -19.6683
+bus/1/send = &"Master"
